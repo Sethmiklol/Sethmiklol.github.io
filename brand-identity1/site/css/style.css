@@ -40,7 +40,7 @@ GENERAL CLASSES
 HEADER CLASSES
 -------------------------------------------------*/
 
-.header-wrap { width:100%; overflow:hidden; background:#7da93f;}
+.header-wrap { width:100%; overflow:hidden; background:#00c0ff;}
 .header { width:960px; overflow:hidden; margin:0 auto;}
 
 .menu { float:left; width:505px;}
