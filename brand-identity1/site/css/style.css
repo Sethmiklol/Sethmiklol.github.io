@@ -47,7 +47,7 @@ HEADER CLASSES
 .menu ul li { float:left; width:100px; margin-right:1px;}
 .menu ul li a { display:block; width:100px; height:80px; line-height:80px; text-align:center; color:#ffffff; background:#1ac6ff;}
 .menu ul li a:hover { background:#33cdff;} 
-.menu ul li a.active { background:#33cdff;} 
+.menu ul li a.active { background:#9cd2cb;} 
 
 .social-media { float:right; height:80px;}
 .social-media ul li { float:left; margin-right:10px; padding-top:25px;}
