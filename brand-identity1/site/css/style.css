@@ -40,14 +40,14 @@ GENERAL CLASSES
 HEADER CLASSES
 -------------------------------------------------*/
 
-.header-wrap { width:100%; overflow:hidden; background:#9cd2cb;}
+.header-wrap { width:100%; overflow:hidden; background:##7da93f;}
 .header { width:960px; overflow:hidden; margin:0 auto;}
 
 .menu { float:left; width:505px;}
 .menu ul li { float:left; width:100px; margin-right:1px;}
-.menu ul li a { display:block; width:100px; height:80px; line-height:80px; text-align:center; color:#9cd2cb; background:#9cd2cb;}
-.menu ul li a:hover { background:#9cd2cb;} 
-.menu ul li a.active { background:#9cd2cb;} 
+.menu ul li a { display:block; width:100px; height:80px; line-height:80px; text-align:center; color:##7da93f; background:##7da93f;}
+.menu ul li a:hover { background:##7da93f;} 
+.menu ul li a.active { background:##7da93f;} 
 
 .social-media { float:right; height:80px;}
 .social-media ul li { float:left; margin-right:10px; padding-top:25px;}
